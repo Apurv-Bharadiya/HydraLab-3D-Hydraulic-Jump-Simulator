@@ -10,8 +10,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](LICENSE)
 [![60 FPS WebGL](https://img.shields.io/badge/Performance-60_FPS_Target-green)](https://github.com)
 
-> **Live Application**: [https://hydra-lab.vercel.app](https://hydra-lab.vercel.app/) [&] [https://hydralab.netlify.app/](https://hydralab.netlify.app/)   
-> **Repository**: [HydraLab-3D-Hydraulic-Jump-Simulator](https://github.com)
+> **Live Application**: [https://hydra-lab.vercel.app](https://hydra-lab.vercel.app/) & [https://hydralab.netlify.app/](https://hydralab.netlify.app/)   
+> **Repository**: [HydraLab-3D-Hydraulic-Jump-Simulator](https://github.com/Apurv-Bharadiya/HydraLab-3D-Hydraulic-Jump-Simulator)
 
 **HydraLab 3D** is a flagship web-based fluid dynamics and open-channel hydraulics simulation platform designed to eliminate the reliance on legacy desktop engineering software (such as HEC-RAS, Flow-3D, or HydroCulv) for educational and rapid-prototyping workflows. Built with **React 19**, **React Three Fiber (R3F)**, **Three.js**, **TypeScript**, and **Tailwind CSS**, HydraLab 3D couples real-time 1D Saint-Venant hydraulic jump equations with a 60 FPS deformable 3D water mesh, Lagrangian streamline particles, physical USBR stilling basins, a virtual dye tracer lab, and a synchronized **Specific Energy ($E-y$) and Momentum ($M-y$) diagram**.
 
